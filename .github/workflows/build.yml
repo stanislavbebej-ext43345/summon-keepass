@@ -45,7 +45,7 @@ jobs:
         go test -coverprofile=coverage.out -json >report.json
 
     - name: SonarQube Scan
-      uses: SonarSource/sonarqube-scan-action@v6
+      uses: SonarSource/sonarqube-scan-action@v7
       env:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
@@ -94,7 +94,7 @@ jobs:
         subject-path: ${{ env.BINARY_NAME }}-*
 
     - name: Publish artifacts
-      uses: actions/upload-artifact@v5
+      uses: actions/upload-artifact@v6
       with:
         path: ${{ env.BINARY_NAME }}-*
         retention-days: 7
