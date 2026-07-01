@@ -31,7 +31,7 @@ jobs:
       - ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
       with:
         fetch-depth: 0
 
@@ -45,7 +45,7 @@ jobs:
         go test -coverprofile=coverage.out -json >report.json
 
     - name: SonarQube Scan
-      uses: SonarSource/sonarqube-scan-action@v7
+      uses: SonarSource/sonarqube-scan-action@v8
       env:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
