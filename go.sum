@@ -8,11 +8,11 @@ github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
 github.com/tobischo/argon2 v0.1.0 h1:mwAx/9DK/4rP0xzNifb/XMAf43dU3eG1B3aeF88qu4Y=
 github.com/tobischo/argon2 v0.1.0/go.mod h1:4NLmLFwhWPbT66nRZNgcktV/mibJ6fESoeEp43h9GRw=
-github.com/tobischo/gokeepasslib/v3 v3.6.2 h1:SJzzllmNe7iZLudLJ3Lzdm3pDb++AJqZlmqG+SR8bVc=
-github.com/tobischo/gokeepasslib/v3 v3.6.2/go.mod h1:ga7HFqG0TZSLNao/QOnV2+yngkrf5186saPxSQ1Xp7o=
-golang.org/x/crypto v0.52.0 h1:RMs7fP2rXdep0CftQlK8Uf+kibLm7qkCcradZWYz988=
-golang.org/x/crypto v0.52.0/go.mod h1:1QgfPxDqh0T2M/elOJtp9RvuR95kVjir0e6/BvEmGbc=
-golang.org/x/sys v0.45.0 h1:dO4czNzziLiiXplLQgBCEpCvXQ3dnkn0SdaZSYdQ+FY=
-golang.org/x/sys v0.45.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
+github.com/tobischo/gokeepasslib/v3 v3.7.0 h1:MZKx72JkkQdElHr4gOQlnLF92B6i+Bv4KwxadUr1WzE=
+github.com/tobischo/gokeepasslib/v3 v3.7.0/go.mod h1:Lvv7/e6Eys07pEjQfpx52W9ptuDRiM4Osiz3m897tQg=
+golang.org/x/crypto v0.54.0 h1:YLIA59K4fiNzHzjnZt2tUJQjQtUWfWbeHBqKtk3eScw=
+golang.org/x/crypto v0.54.0/go.mod h1:KWL8ny2AZdGR2cWmzeHrp2azQPGogOv+HeQaVEXC2dk=
+golang.org/x/sys v0.47.0 h1:o7XGOvZQCADBQQ4Y7VNq2dRWQR7JmOUW8Kxx4ZsNgWs=
+golang.org/x/sys v0.47.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
