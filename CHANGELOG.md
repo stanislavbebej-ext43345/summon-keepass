@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/stanislavbebej-ext43345/summon-keepass/compare/v1.2.3...v1.2.4) (2026-09-29)
+
+
+### Bug Fixes
+
+* **deps:** update ([9289fe0](https://github.com/stanislavbebej-ext43345/summon-keepass/commit/9289fe07b8081d6cf8ed90a53ff47c18ac647faa))
+
 ## [1.2.3](https://github.com/stanislavbebej-ext43345/summon-keepass/compare/v1.2.2...v1.2.3) (2026-08-03)
 
 
