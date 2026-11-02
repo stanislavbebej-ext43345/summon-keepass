@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.5](https://github.com/stanislavbebej-ext43345/summon-keepass/compare/v1.2.4...v1.2.5) (2026-11-02)
+
+
+### Bug Fixes
+
+* **deps:** bump github.com/tobischo/gokeepasslib/v3 ([8440441](https://github.com/stanislavbebej-ext43345/summon-keepass/commit/8440441ad1e8d07f6a1b9ccf7e30f84b0adfb97c))
+
 ## [1.2.4](https://github.com/stanislavbebej-ext43345/summon-keepass/compare/v1.2.3...v1.2.4) (2026-09-29)
 
 
