@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	BUILD_VERSION = "1.2.4" // x-release-please-version
+	BUILD_VERSION = "1.2.5" // x-release-please-version
 
 	INPUT_KEEPASS_FILE_PATH = "KEEPASS_FILE_PATH"
 	INPUT_KEEPASS_PASSWORD  = "KEEPASS_PASSWORD"
